@@ -6,34 +6,7 @@ Nesta atividade vamos colocar em prática o consumo de uma API utilizando **Java
 
 Vamos criar uma página que consulta a **Random User API**, recebe uma lista de usuários e apresenta essas informações na tela.
 
-O foco da atividade é acompanhar o caminho:
 
-```text
-JavaScript
-    ↓
-API
-    ↓
-Resposta
-    ↓
-Dados
-    ↓
-Página HTML
-```
-
-Ao final, teremos uma página semelhante a esta:
-
-```text
-┌───────────────────────────────────────────────┐
-│          RANDOM USER GENERATOR API            │
-├───────────────┬───────────────┬───────────────┤
-│               │               │               │
-│     FOTO      │     FOTO      │     FOTO      │
-│               │               │               │
-│  João Silva   │ Maria Souza   │ Pedro Santos │
-│  email...     │ email...      │ email...      │
-│  telefone...  │ telefone...   │ telefone...   │
-│               │               │               │
-└───────────────┴───────────────┴───────────────┘
 ```
 
 ---
