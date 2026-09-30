@@ -7,8 +7,6 @@ Nesta atividade vamos colocar em prática o consumo de uma API utilizando **Java
 Vamos criar uma página que consulta a **Random User API**, recebe uma lista de usuários e apresenta essas informações na tela.
 
 
-```
-
 ---
 
 # 1. Criando a pasta do projeto
